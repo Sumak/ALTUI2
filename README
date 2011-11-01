@@ -1,0 +1,36 @@
+AddOns:
+AltUI - Core; Main Addon;
+AltUF - Unitframes;
+AltUI_Filger - Buffs/debuffs/cooldowns icons;
+AltUI_Install - AltUI Installation;
+AltUI_Setting - Ingame configuration;
+LiteStats - Awesome datatext;
+AltUI_CooldownFlash - Cooldown icon (use LibStub library).
+
+Install:
+1. Чистим директорию WoWDir\Interface\AddOns;
+2. Открываем архив, кидаем его содержимое в WoWDir\Interface\AddOns;
+3. Enjoy.
+
+/Commands:
+/rl - Reload UI, 
+/rd - Disband party, raid, 
+/rc - Ready Check, 
+/clfix - Fix combat log entries , 
+/wf - Move watch frame (Quest-log), 
+/ss - Apply dual-talent specialization, 
+/hb - Bind mode, 
+/am - AddOn manager, 
+/gm - tech. support, 
+/move - Move main elements of the UI, 
+/enable - Enable AddOn, 
+/disable - Disable AddOn, 
+/altcfg - Open GUI, 
+/alth - AltUI help frame.
+
+Сборка предназначена для мониторов с разрешением 1280х1024. Значение UIScale 0.75, настройки производятся либо 
+WoWDir\Interface\AddOns\AltUI\config\cfg.lua или же в игре /altcfg, ну или быстрый доступ по дататексту снизу.
+Потребление памяти ~1мб.
+
+Credits:
+Alza, Allez, DonKaban, Monolit, Shestak, Duffed, Tuller, Tukz, Nightcracker, Zork, Haste, Tekkub.
