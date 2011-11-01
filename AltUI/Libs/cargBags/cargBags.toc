@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: cargBags
+## Author: Cargor
+## Version: 2.0-beta
+## X-eMail: xconstruct@gmail.com
+## X-Website: http://www.xconstruct.net
+## Notes: Inventory framework
+
+embed.xml
+
+## Test implementations
+## Normally these should be commented
+# tests\basic.lua
+# tests\minimal.lua
+# tests\list.lua

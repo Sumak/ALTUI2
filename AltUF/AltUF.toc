@@ -1,0 +1,19 @@
+## Interface: 30300
+## Author: Alt
+## Title: Alt Unit Frames
+## Notes: Simple Unit Frames.
+## RequiredDeps: AltUI 
+## OptionalDeps: oUF_AuraTracker, oUF_WeaponEnchant, oUF_Smooth, oUF_CombatFeedback
+
+oUF\oUF.xml
+
+Tags.lua
+Layout.lua
+Functions.lua
+Raid.lua
+
+Embeds\oUF_TotemBar.lua
+Embeds\oUF_WeaponEnchant.lua
+Embeds\oUF_Smooth.lua
+Embeds\oUF_CombatFeedback.lua
+Embeds\oUF_AuraTracker.lua

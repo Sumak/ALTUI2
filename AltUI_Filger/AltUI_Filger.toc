@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AltUI_Filger
+## Notes: Class spell-timers for AltUI.
+## Author: Nils Ruesch
+## RequiredDeps: AltUI
+
+AltUI_Filger.lua
+Settings.lua

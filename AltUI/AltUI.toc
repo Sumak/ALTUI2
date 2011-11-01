@@ -1,0 +1,53 @@
+## Interface: 30300
+## Author: Alt
+## Credits: Alza, Allez, DonKaban, Monolit, Shestak, Tuller, Tukz, Nightcracker, Zork, Haste, Tekkub.
+## Title: AltUI
+## Notes: Simple UI compilation.
+## Version: 2.6
+## OptionalDeps: AltUI_Setting, Omen, DBM-Core, Skada, Recount
+## SavedVariables: SavedOptions
+## SavedVariablesPerCharacter: UISavedPositions
+
+Config\CFG.lua
+Config\Fonts.lua
+
+Core\Launch.lua
+Core\Move.lua
+Core\Tools.lua
+Core\Variables.lua
+Core\GUI.lua
+
+Libs\LitePanels\Core.lua
+Libs\LitePanels\Layout.lua
+Libs\cargBags\embed.xml
+
+Lang\Loc.lua
+
+Modules\Blizzard\Combatfont.lua
+Modules\Blizzard\System_font.lua
+Modules\Blizzard\Bindmode.lua
+Modules\Blizzard\Slash.lua
+Modules\Blizzard\Tweaks.lua
+Modules\Blizzard\Skin.lua
+Modules\Blizzard\Chat_Bubbles.lua
+Modules\Blizzard\Shadow.lua
+Modules\Bags\Bags.lua
+Modules\Actionbars\Actionbars.lua
+Modules\Actionbars\Style.lua
+Modules\Panels\Panels.lua
+Modules\Loot\Loot.lua
+Modules\Loot\Roll.lua
+Modules\Map\Minimap.lua
+Modules\Map\Worldmap.lua
+Modules\Map\Explore.lua
+Modules\Addon_Manager\Addon_Manager.lua
+Modules\Chat\Chat.lua
+Modules\Chat\ChatBar.lua
+Modules\Cooldown\Cooldown.lua
+Modules\Nameplates\Nameplates.lua
+Modules\Tooltip\Tooltip.lua
+Modules\Tooltip\SpellID.lua
+Modules\Addons_Skin\Omen.lua
+Modules\Addons_Skin\DBM.lua
+Modules\Addons_Skin\Skada.lua
+Modules\Addons_Skin\Recount.lua

@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: LiteStats
+## Author: Katae of Anvilmar
+## Notes: Useful little info texts
+## RequiredDeps: AltUI
+
+Locale\esES.lua
+Locale\ruRU.lua
+
+Config.lua
+Core.lua

@@ -1,0 +1,9 @@
+## Interface: 30300
+## Author: nightcracker
+## Title: AltUI_CooldownFlash
+## Notes: Flashes an icon in the middle of your screen when a cooldown ends.
+## RequiredDeps: AltUI 
+
+Libs\LibStub.lua
+Libs\LibCooldown.lua
+AltUI_CooldownFlash.lua

@@ -1,0 +1,9 @@
+﻿## Interface: 30300
+## Author: Alt
+## Title: AltUI_Install
+## Notes: Installation this UI.
+## RequiredDeps: AltUI
+
+Lang\Loc.lua
+
+Install.lua

@@ -1,0 +1,8 @@
+## Interface: 30300
+## Author: Tohveli
+## Title: AltUI_GUI
+## Notes: GUI for AltUI.
+## RequiredDeps: AltUI
+## SavedVariablesPerCharacter: GUIConfig
+
+AltUI_Setting.lua
